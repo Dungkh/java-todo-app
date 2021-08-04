@@ -1,3 +1,0 @@
-private sum int( int a, int b) {
- return a+b;
-}
